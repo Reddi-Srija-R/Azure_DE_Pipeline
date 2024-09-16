@@ -107,6 +107,7 @@ This repository contains the setup, configuration, and implementation details fo
 - [Azure Databricks Documentation](https://docs.microsoft.com/en-us/azure/databricks/)
 - [Azure Synapse Analytics Documentation](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
 - [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+- [Mount ADLS storage Documentation](https://learn.microsoft.com/en-us/azure/databricks/archive/credential-passthrough/adls-passthrough )
 
 ##
 
