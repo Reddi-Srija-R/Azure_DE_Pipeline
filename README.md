@@ -4,7 +4,8 @@ This repository contains the setup, configuration, and implementation details fo
 
 ## Project Breakdown
 
-![Architecture]
+![Architecture](Architecture.jpg)
+
 ### 1. Environmental Setup
 
 1. **Microsoft SQL Server and SSMS**
