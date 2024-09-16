@@ -45,19 +45,19 @@ This repository contains the setup, configuration, and implementation details fo
    - Access Token
    - Compute - Cluster Creation
    - Workspace
-   - Notebooks
-     - Storage Mount - To Mount ADLS Gen 2 Containers
-     - Bronze to Silver - PySpark
-     - Silver to Gold - PySpark
+      - Notebooks
+        - Storage Mount - To Mount ADLS Gen 2 Containers
+        - Bronze to Silver - PySpark
+        - Silver to Gold - PySpark
 
 2. **Azure Data Factory**
    - Linked Service
-   - Azure Databricks
+      - Azure Databricks
    - Pipeline
-   - Lookup Tables
-   - For Each - Copy Data into Bronze Container
-   - Bronze to Silver Databricks Notebook
-   - Silver to Gold Databricks Notebook
+      - Lookup Tables
+      - For Each - Copy Data into Bronze Container
+      - Bronze to Silver Databricks Notebook
+      - Silver to Gold Databricks Notebook
 
 ### 4. Data Loading
 
@@ -65,11 +65,11 @@ This repository contains the setup, configuration, and implementation details fo
    - Create Serverless SQL Database
    - SQL Scripts - Stored Procedure Script
    - Linked Service
-   - Azure SQL Database
+      - Azure SQL Database
    - From Synapse Workspace Properties - Collect Serverless SQL Endpoint
    - Integrate - Pipeline - Views Creation
-   - Get Metadata - Binary Format - Connect to Gold Container
-   - For Each - Stored Procedure Activity
+      - Get Metadata - Binary Format - Connect to Gold Container
+      - For Each - Stored Procedure Activity
 
 ### 5. Data Reporting
 
