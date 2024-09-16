@@ -19,7 +19,7 @@ This repository contains the setup, configuration, and implementation details fo
 9. **Access Control (IAM)**
    - Owner
    - Azure Active Directory Security Group
-   - Storage Blob Data Container - User and Managed Identity
+   - Storage Blob Data Contributor - User and Managed Identity
    - Storage Blob Data Reader - User and Managed Identity
 10. **Key Vault**
     - Username
