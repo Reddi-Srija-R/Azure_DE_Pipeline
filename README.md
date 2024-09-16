@@ -4,6 +4,8 @@ This repository contains the setup, configuration, and implementation details fo
 
 ## Project Breakdown
 
+![Architecture](https://github.com/Reddi-Srija-R/Azure_DE_Pipeline/blob/main/Azure%20Project%20Architecture.jpg)
+
 ### 1. Environmental Setup
 
 1. **Microsoft SQL Server and SSMS**
